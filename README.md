@@ -19,10 +19,13 @@ pip install opencv-python
 
 # 2.Training with Testing
 
+you can change parameters using [config.py](https://github.com/josh3255/GAN/blob/master/config.py)
+
 ```
 cd /project/path
 python train.py
 ```
+
 ***
 
 # 3.Problems
