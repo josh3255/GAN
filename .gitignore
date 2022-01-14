@@ -3,3 +3,5 @@
 *.pt
 *.pth
 *.pyc
+
+MNIST_DATASET/*
