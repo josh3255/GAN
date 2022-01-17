@@ -41,3 +41,7 @@ If the balance between the generator and the discriminator is not balanced, lear
 (생성기와 판별기 사이에 균형이 맞지 않을 경우 학습이 잘 되지 않는 문제)
 
 ![Screenshot from 2022-01-14 11-15-55](https://user-images.githubusercontent.com/45096827/149458564-d85887e6-5c83-4841-ab30-df064a8558cb.png) <br>
+
+## 3.3 Hmmm..
+
+발전된 모델을 공부하다가 알게 된 점인데 Generator의 input으로 사용되는 Noise Vector z에 대해서 제약이 없기 때문에 highly entangled 방식으로 representation을 학습할 여지가 있다고 
